@@ -1,5 +1,8 @@
+
+using Orbwalking = SFXTargetSelector.Orbwalking;
+using TargetSelector = SFXTargetSelector.TargetSelector;
 ﻿using System;
-using System.Collections.Generic;
+using System.Collections.Generic
 using System.Linq;
 using System.Windows.Forms.VisualStyles;
 using LeagueSharp;
